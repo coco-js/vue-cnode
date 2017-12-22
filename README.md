@@ -1,11 +1,11 @@
 ## 仿cnode社区
-Vue练习项目--[预览地址](https://coco-js.github.io/vue-cnode/dist/index.html#/)
-dist目录为编译后版本
+> Vue练习项目--[预览地址](https://coco-js.github.io/vue-cnode/dist/index.html#/) <br/>
+> dist目录为编译后版本
 
 ## SPA
-> vue-cli，
-> vue-router，
-> axios，
+> vue-cli
+> vue-router
+> axios
 
 ## Build Setup
 
