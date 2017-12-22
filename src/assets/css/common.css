@@ -1,0 +1,15 @@
+.tab {
+	position:relative;
+	top:-5px;
+	display:inline-block;
+	margin:0 3px;
+	padding:2px;
+	font-size:12px;
+	color:#999;
+	background:#e5e5e5;
+	border-radius:3px;
+}
+.put_good,.put_top {
+	background: #80bd01;
+	color:#fff;
+}
