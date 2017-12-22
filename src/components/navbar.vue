@@ -1,7 +1,7 @@
 <template>
 	<div class="navbar">
 		<div class="nav">
-			<img src="../assets/img/cnodejs_light.svg" width="120" height="28" alt="">
+			<router-link to="/"><img src="../assets/img/cnodejs_light.svg" width="120" height="28" alt=""></router-link>
 		</div>
 	</div>
 </template>
