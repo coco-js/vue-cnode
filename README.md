@@ -3,8 +3,8 @@
 > dist目录为编译后版本
 
 ## SPA
-> vue-cli
-> vue-router
+> vue-cli <br/>
+> vue-router <br/>
 > axios
 
 ## Build Setup
