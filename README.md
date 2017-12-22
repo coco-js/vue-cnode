@@ -1,6 +1,6 @@
-# cnode
+# 仿cnode社区
 
-> A Vue.js project
+> Vue练习项目--[预览地址](https://coco-js.github.io/vue-cnode/dist/index.html#/)
 
 ## Build Setup
 
