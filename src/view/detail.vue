@@ -1,5 +1,5 @@
 <template>
-	<div id="detail">
+	<div id="detail" class="clearfix">
 		<div class="slider">
 			<slide></slide>
 		</div>
@@ -27,17 +27,14 @@
 		width:1100px;
 		max-width:1400px;
 		min-width:960px;
-		min-height:$min-height;
 		margin:15px auto;
 		.slider {
 			width:280px;
-			min-height:$min-height;
 			margin-left:15px;
 			float:right;
 		}
 		.content{
 			display:flex;
-			min-height:$min-height;
 		}
 	}
 </style>
