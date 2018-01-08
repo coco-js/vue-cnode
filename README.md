@@ -1,6 +1,7 @@
-# cnode
+# 仿cnode社区
 
-> A Vue.js project
+> Vue练习项目
+
 
 ## Build Setup
 
