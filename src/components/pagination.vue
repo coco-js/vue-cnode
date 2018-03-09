@@ -2,7 +2,7 @@
 	<div class="pagination">
 		<ul>
 			<li @click="controlPage(curPage - 1)"><a class="lastPage" :class="{darkLight: curPage === 1}">上一页</a></li>
-			<li v-for='page in pages" @click="controlPage(page)'>
+			<li v-for='page in pages' @click='controlPage(page)'>
 				<a class="page" :class="{highLight: curPage === page}">{{ page }}</a>
 			</li>
 			<li @click="controlPage(curPage + 1)"><a class="nextPage" :class="{darkLight: curPage === totalPages}">下一页</a></li>

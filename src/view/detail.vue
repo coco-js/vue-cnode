@@ -35,6 +35,7 @@
 		}
 		.content{
 			display:flex;
+			min-height:790px;
 		}
 	}
 </style>

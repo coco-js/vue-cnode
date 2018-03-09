@@ -2,17 +2,15 @@
   <div id="app">
     <navbar></navbar>
     <router-view/>
-    <ft></ft>
   </div>
 </template>
 
 <script>
 import navbar from './components/navbar'
-import ft from './components/footer'
 
 export default {
   name: 'app',
-  components: { navbar,ft }
+  components: { navbar }
 }
 </script>
 
